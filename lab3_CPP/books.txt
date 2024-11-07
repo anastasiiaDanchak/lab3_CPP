@@ -1,0 +1,4 @@
+To Kill a Mockingbird,Harper Lee,0
+The Great Gatsby,F. Scott Fitzgerald,0
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,0
+1984,null,0

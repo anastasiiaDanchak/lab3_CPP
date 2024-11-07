@@ -1,0 +1,16 @@
+- !!com.example.Book
+  author: Harper Lee
+  title: To Kill a Mockingbird
+  year: 0
+- !!com.example.Book
+  author: F. Scott Fitzgerald
+  title: The Great Gatsby
+  year: 0
+- !!com.example.Book
+  author: J.K. Rowling
+  title: Harry Potter and the Sorcerer's Stone
+  year: 0
+- !!com.example.Book
+  author: null
+  title: '1984'
+  year: 0
